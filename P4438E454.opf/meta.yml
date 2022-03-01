@@ -1,0 +1,24 @@
+id: P4438E454
+initial_creation_type: input
+source_metadata:
+  title: Sojong Series
+  language: bo
+  description: 'Texts on the theme of Poṣadha or Sojong (''healing and purification'')
+    practice:'
+  volume:
+    3821b8dd5d21448a82a5f7a3b9d73b2a:
+      title: The Method for Observing the Eight-Branched One-Day Vow
+      parent: Explanation
+    bdf4c393a7a74776af9d92372c26f396:
+      title: 'The Concentrated Essence: A Concise Practice of Healing and Purifying
+        (Sojong) the Three Sets of Vows'
+      parent: Practices
+    f7d74ae16b6e40529e6791bafb55fdb2:
+      title: 'The Blissful Path of Action Tantra: A Ritual for Taking the One-Day
+        Vows of a Lay Practitioner'
+      parent: Practices
+    5be011cb53fa4d02ae1bf23ea56dc7b5:
+      title: Taking the Vows of Sojong
+      parent: Practices
+created_at: '2022-03-01T05:52:05.293066'
+last_modified_at: '2022-03-01T05:52:05.293068'
